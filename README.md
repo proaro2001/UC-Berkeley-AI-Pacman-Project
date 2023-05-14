@@ -31,3 +31,20 @@ These algorithms are used to solve navigation and traveling salesman problems in
 More information about this project, please visit [here](http://ai.berkeley.edu/search.html)
 
 More information about the implementation details, please visit [Project 1 Search](https://github.com/proaro2001/UC-Berkeley-AI-Pacman-Project/tree/main/search)
+
+
+## Project 2: MultiAgent
+
+In this project, I have explored the following search algorithms:
+
+- Reflex Agent
+- Minimax
+- Alpha-Beta Pruning
+- Expectimax
+- Evaluation Function
+
+These algorithms are used to design agents for the classic version of Pacman, including ghosts.
+
+More information about this project, please visit [here](http://ai.berkeley.edu/multiagent.html)
+
+More information about the implementation details, please visit 
