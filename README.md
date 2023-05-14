@@ -33,13 +33,16 @@ More information about this project, please visit [here](http://ai.berkeley.edu/
 ### Run Project 1 On Terminal
 To run AI-Pacman with different searching algorithms, type the following command into the terminal:
 
+---
+
 **DFS, BFS, UCS**
 
 ```
 $ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=<algorithm_name>
 ```
 
-Replace, the <algorithm_name> by dfs, bfs, ucs
+*Replace, the <algorithm_name> by dfs, bfs, ucs*
+---
 
 **A* Search and Heuristic**
 
