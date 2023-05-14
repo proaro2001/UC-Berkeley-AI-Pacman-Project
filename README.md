@@ -42,6 +42,7 @@ $ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=<algorithm_name>
 ```
 
 *Replace, the <algorithm_name> by dfs, bfs, ucs*
+
 ---
 
 **A* Search and Heuristic**
