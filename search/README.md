@@ -30,7 +30,7 @@ $ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=<algorithm_name>
 
 ---
 
-**A* Search and Heuristic**
+### A* Search and Heuristic
 
 ```
 $ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
@@ -38,7 +38,7 @@ $ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhatt
 
 ---
 
-**Finding All the Corners and Heuristic**
+### Finding All the Corners and Heuristic
 
 ```
 python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
@@ -52,13 +52,13 @@ Note: AStarCornersAgent is a shortcut for
 
 In this section, I have explored key concepts related to heuristics, including their admissibility, consistency, and the significance of non-trivial heuristics.
 
-**Eating all the dots**
+### Eating all the dots
 
 ```
 $ python pacman.py -l trickySearch -p AStarFoodSearchAgent
 ```
 
-**Suboptimal Search**
+### Suboptimal Search
 
 ```
 python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5 
