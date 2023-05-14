@@ -28,3 +28,10 @@ In this project, I had the opportunity to implement and explore several search a
 - Heuristic- based approaches
 
 These algorithms are used to solve navigation and traveling salesman problems in the Pacman world
+More information about this project, please visit [here](http://ai.berkeley.edu/search.html)
+
+### Run Project 1 On Terminal
+To run AI-Pacman with different searching algorithms, type the following command into the terminal:
+
+```python pacman.py --algorithm <algorithm_name>```
+
