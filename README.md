@@ -48,4 +48,4 @@ These algorithms are used to design agents for the classic version of Pacman, in
 
 More information about this project, please visit [here](http://ai.berkeley.edu/multiagent.html)
 
-More information about the implementation details, please visit 
+More information about the implementation details, please visit [Project 2 MultiAgent](https://github.com/proaro2001/UC-Berkeley-AI-Pacman-Project/tree/main/multiagent)
