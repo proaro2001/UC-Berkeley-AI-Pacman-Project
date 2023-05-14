@@ -19,6 +19,8 @@ To get started with the UCBerkeley AI-Pacman-Project, follow the steps below:
 ![Bigmaze png](http://ai.berkeley.edu/projects/release/search/v1/001/maze.png)
 
 ### Algorithm Expored and Lessons Learned
+---
+
 In this project, I had the opportunity to implement and explore several search algorithms
 
 - Depth-first search
