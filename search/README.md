@@ -2,7 +2,7 @@
 
 ![Bigmaze png](http://ai.berkeley.edu/projects/release/search/v1/001/maze.png)
 
-### Algorithm Expored and Lessons Learned
+## Algorithm Expored and Lessons Learned
 
 In this project, I had the opportunity to implement and explore several search algorithms
 
@@ -15,12 +15,12 @@ In this project, I had the opportunity to implement and explore several search a
 These algorithms are used to solve navigation and traveling salesman problems in the Pacman world
 More information about this project, please visit [Origional Source](http://ai.berkeley.edu/search.html)
 
-### Run Project 1 On Terminal
+## Run Project 1 On Terminal
 To run AI-Pacman with different searching algorithms, type the following command into the terminal:
 
 ---
 
-**DFS, BFS, UCS**
+### DFS, BFS, UCS
 
 ```
 $ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=<algorithm_name>
