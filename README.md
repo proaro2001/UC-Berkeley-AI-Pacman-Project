@@ -14,3 +14,10 @@ To get started with the UCBerkeley AI-Pacman-Project, follow the steps below:
 4. Check out all options and their default settings via:```$ python pacman.py -h```
 5. Have fun!
 
+## Project 1: Search
+
+![Bigmaze png](http://ai.berkeley.edu/projects/release/search/v1/001/maze.png)
+
+This project focus on implementation of various search algorithms
+
+** Algorithm **
