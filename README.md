@@ -18,12 +18,13 @@ To get started with the UCBerkeley AI-Pacman-Project, follow the steps below:
 
 ![Bigmaze png](http://ai.berkeley.edu/projects/release/search/v1/001/maze.png)
 
-This project focus on implementation of various search algorithms
-
 ### Algorithm Expored and Lessons Learned
 In this project, I had the opportunity to implement and explore several search algorithms
-    - Depth-first search
-    - Breadth-first search
-    - Uniform cost search
-    - A* search algorithms
-    - Heuristic- based approaches
+
+- Depth-first search
+- Breadth-first search
+- Uniform cost search
+- A* search algorithms
+- Heuristic- based approaches
+
+These algorithms are used to solve navigation and traveling salesman problems in the Pacman world
