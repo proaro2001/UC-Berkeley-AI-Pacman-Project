@@ -1,7 +1,7 @@
 # UC-Berkeley-AI-Pacman-Project
 ## Intro
 [The Pacman Projects](http://ai.berkeley.edu/project_overview.html) by the [University of California, Berkeley](http://berkeley.edu/).
-
+[Pacman Overview gif](http://ai.berkeley.edu/images/pacman_game.gif)
 This project focuses on exploring foundational AI concepts by implementing search algorithms for Pacman, the iconic video game character. The goal is to develop an intelligent Pacman Agent that can efficiently navigate mazes, collect food, and reach specific destinations.
 
 ## Getting Started
