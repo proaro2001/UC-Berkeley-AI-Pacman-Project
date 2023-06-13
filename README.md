@@ -49,3 +49,23 @@ These algorithms are used to design agents for the classic version of Pacman, in
 More information about this project, please visit [here](http://ai.berkeley.edu/multiagent.html)
 
 More information about the implementation details, please visit [Project 2 MultiAgent](https://github.com/proaro2001/UC-Berkeley-AI-Pacman-Project/tree/main/multiagent)
+
+
+## Project 3: Reinforcement Learning
+
+In this project, I have explored the following search algorithms:
+
+- Markov Decision Processing
+- Value iteration
+- Manipulating discount, noise, and living rewards 
+- Asynchronous Value Iteration
+- Prioritized Sweeping Value Iteration
+- Q-Learning
+- Epilson Greedy
+- Approximate Q-Learning
+
+Concepts related to topic of reinforcement learning.
+
+More information about this project, please visit [here](http://ai.berkeley.edu/multiagent.html)
+
+More information about the implementation details, please visit [Project 3 Reinforcement Learning](https://github.com/proaro2001/UC-Berkeley-AI-Pacman-Project/tree/fa08ff67a9f4714fef795af0de440f0a02727dcf/Reinforcement%20Learning)
